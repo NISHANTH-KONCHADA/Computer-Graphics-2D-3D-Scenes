@@ -5,13 +5,13 @@ This repository contains two graphics projects demonstrating **from-scratch algo
 ---
 
 # 🎡 Project 1 — 2D Amusement Park  
-**File:** `2d_scene_amusement_park`
+**File:** `2d_scene_amusement_park.cpp`
 
 A fully animated 2D scene drawn using **manual rasterization algorithms** (no OpenGL primitives).
 
 ### 🔧 Custom Algorithms
 - Bresenham Line Algorithm  
-- Midpoint Circle Algorithm  
+- Midpoint Circle Algorithm     
 - Scanline Polygon Fill  
 
 ### ✨ Features
@@ -53,4 +53,8 @@ g++ 2d_scene_amusement_park.cpp -o park_2d -lGL -lGLU -lglut -lm
 ### 3D Scene
 ```bash
 g++ 3d_scene_CinematicStation.cpp -o railway_3d -lGL -lGLU -lglut -lm
+<<<<<<< Updated upstream
 ```
+=======
+```
+>>>>>>> Stashed changes
