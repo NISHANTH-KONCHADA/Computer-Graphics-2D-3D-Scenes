@@ -53,8 +53,3 @@ g++ 2d_scene_amusement_park.cpp -o park_2d -lGL -lGLU -lglut -lm
 ### 3D Scene
 ```bash
 g++ 3d_scene_CinematicStation.cpp -o railway_3d -lGL -lGLU -lglut -lm
-<<<<<<< Updated upstream
-```
-=======
-```
->>>>>>> Stashed changes
